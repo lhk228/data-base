@@ -171,7 +171,7 @@ const priceRef = useRef()
       {access && smsPage &&
       <Main>
         <Head>
-          <HeadText>일자</HeadText>
+          <HeadText>일자123</HeadText>
           <HeadText>이메일</HeadText>
           <HeadText>내용</HeadText>
           <HeadText>전화번호</HeadText>
